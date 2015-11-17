@@ -1,5 +1,3 @@
-require 'byebug'
-
 class HangpersonGame
   attr_accessor :word, :guesses, :wrong_guesses
   
